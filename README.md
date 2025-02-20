@@ -12,4 +12,5 @@ A powerful Discord moderation bot written in Python using discord.py.
 ## Installation
 1. Clone the repository:
    ```sh
+   https://www.youtube.com/w
    git clone https://github.com/Finoraaa/Finorot
