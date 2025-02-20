@@ -10,7 +10,8 @@ A powerful Discord moderation bot written in Python using discord.py.
 - 📜 AFK System
 
 ## Installation
+https://www.youtube.com/w
 1. Clone the repository:
    ```sh
-   https://www.youtube.com/w
+   
    git clone https://github.com/Finoraaa/Finorot
